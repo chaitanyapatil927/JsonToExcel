@@ -1,0 +1,22 @@
+{
+  "name": "jsontoexcel",
+  "version": "1.0.0",
+  "description": "tryin json to excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "chaitanya patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "json2xls": "^0.1.2",
+    "xlsx": "^0.16.0"
+  }
+}
